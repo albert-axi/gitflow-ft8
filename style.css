@@ -1,11 +1,11 @@
-header-text {
+.header-text {
   font-family: Cambria, "Open Sans", serif;
   font-size: 120%;
   line-height: 35px;
   font-weight: bold;
 }
 
-header-image {
+.header-image {
     display: flex;
     justify-content: center;
     align-items: center;
